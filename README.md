@@ -2,7 +2,7 @@
 Exemplo de metaheurística de otimização com 2 variáveis - VBA
 
 
-Essa versão é um pouquinho mais elaborada que a versão com uma variável ![](https://ferramentasexcelvba.wordpress.com/2021/03/27/exemplo-de-metaheuristica-uma-variavel/)
+Essa versão é um pouquinho mais elaborada que a ![versão com uma variável](https://ferramentasexcelvba.wordpress.com/2021/03/27/exemplo-de-metaheuristica-uma-variavel/)
 
 Serve para resolver o problema linear:
 
@@ -126,4 +126,4 @@ Uma coisa ruim é todas as equações serem hard coded, mas quem domina código 
 Planilha para download aqui no Github.
 
 
-Texto original: ![](https://ferramentasexcelvba.wordpress.com/2021/03/27/metaheuristica-com-2-variaveis/)
+Texto original: ![aqui](https://ferramentasexcelvba.wordpress.com/2021/03/27/metaheuristica-com-2-variaveis/)
